@@ -1,0 +1,7 @@
+Check,Passed
+No required results missing,1
+No required code missing,1
+Sphere verification evidence present,0
+Updated shadow-OFF CSV contains CFz_B,1
+Sideslip -30 deg CD equals 0.294922675,1
+Shadow-ON neutral-CoM generator present,1

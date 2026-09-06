@@ -1,0 +1,7 @@
+Checkpoint,VerifiedValue,Unit,Evidence
+Sideslip CD at AoS -30 deg,0.294922675,-,Final sideslip_sweep_results.csv
+Non-zero sideslip CD spread,0.19,%,Derived from final non-zero sideslip cases
+Shadow-OFF dCMy/dalpha,+0.0107644069,rad^-1,Updated shadow-OFF seven-case diagnostic
+Shadow-OFF dCFz/dalpha,-0.4910771916,rad^-1,Updated shadow-OFF seven-case diagnostic
+Shadow-OFF local-neutral X-CoM,+27.912364,mm,Same shadow-OFF force and moment gradients
+Shadow-ON local-neutral X-CoM,+34.5,mm,stability_com_trade_shadowON_v03.m

@@ -1,0 +1,4 @@
+Mesh,Model,Panels,SurfaceArea_m2,SurfaceArea_ErrorFine_pct,LenRef_m,LenRef_ErrorFine_pct,MaterialID
+Coarse,disc_lenticular_v03_coarse,2200,1.68773361477554,0.0123055393147733,0.9997464,0.00943328183875086,1
+Medium,disc_lenticular_v03_medium,4400,1.68760200772732,0.00450672307828752,0.9997464,0.00943328183875086,1
+Fine,disc_lenticular_v03,8800,1.68752595560563,0,0.9996521,0,1
