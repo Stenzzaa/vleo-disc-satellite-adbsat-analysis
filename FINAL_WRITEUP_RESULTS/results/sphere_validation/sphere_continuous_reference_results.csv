@@ -1,0 +1,2 @@
+PanelCount,AreaRef_m2,AreaProj_m2,CD_ADBSat_native,CD_ADBSat_frontal,CD_continuous_Sentman,CD_dense_grid,IntegrationDifference,ADBSatMinusContinuous,Difference_pct,MomentCoefficientNorm,MediumToFineNativeCDChange_pct,SentmanRoutinePath
+960,6.23284407049681,3.121444342906,1.05294451957214,2.10250072864265,2.10004049473985,2.10004049150597,3.23387938649944e-09,0.00246023390279815,0.117151736309871,6.00637929175734e-08,0.100596786196336,C:\Users\Samsung\Downloads\ADBSat-master\ADBSat-master\toolbox\fmf_eq\coeff_sentman.m
