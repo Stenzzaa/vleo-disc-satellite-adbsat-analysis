@@ -1,9 +1,12 @@
 function [param_eq, env] = build_freestream(cfg, altitude_km)
 %BUILD_FREESTREAM Generate atmospheric/free-stream parameters for ADBSat.
+%
 %   [param_eq, env] = build_freestream(cfg, altitude_km)
+%
 %   Inputs:
 %       cfg          - Project configuration structure
 %       altitude_km  - Orbital altitude [km]
+%
 %   Outputs:
 %       param_eq     - ADBSat atmospheric/free-stream parameter structure
 %       env          - 1x15 environment input array
