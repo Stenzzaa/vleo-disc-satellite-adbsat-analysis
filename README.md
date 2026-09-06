@@ -13,12 +13,6 @@ This repository supports the aerodynamic assessment of a conceptual lenticular s
 
 CSV files can be inspected directly. MAT files contain MATLAB models, calculation outputs or metadata. The dissertation provides the methods, interpretation and limitations.
 
-## Software
-
-The saved disc and sphere run records identify MATLAB **R2025b Update 4**, version **25.2.0.3150157**, on 64-bit Windows.
-
-The aerodynamic workflow requires MATLAB, Aerospace Toolbox and [ADBSat](https://github.com/nhcrisp/ADBSat). An exact ADBSat release or commit identifier is not recorded in the available run metadata.
-
 The project helper `build_environment.m` constructs the atmospheric input array used by `build_freestream.m`.
 
 ## Setup
