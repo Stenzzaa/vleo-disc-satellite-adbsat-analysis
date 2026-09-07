@@ -95,6 +95,8 @@ This repeats the comparison against the saved panel calculation. It does not reg
 
 ## Result conventions
 
+On a fresh working copy, copy the results folder from inside FINAL_WRITEUP_RESULTS into the repository root, alongside project_config.m.
+
 Exact zero pitch is retained as a baseline but excluded from the reported local stability fit. Distinguish coefficients normalised by ADBSat’s fixed reference area from those normalised by projected area.
 
 The shadow-off diagnostic CSV contains the body-z force coefficient under the original column name `CFz_B`.
